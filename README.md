@@ -1,4 +1,4 @@
-# DMI_PRACTICA3_200644
+# DMI_TAREA3_200644
 
 [![Encabezado.png](https://i.postimg.cc/PJKtvHNC/Encabezado.png)](https://postimg.cc/K3kXCdPb)
 
@@ -31,6 +31,14 @@
 &nbsp;
 &nbsp;
 
+## Salida
+
+<p align="justify">
+  La siguiente imagen es el resultado en aplicación móvil, lo que se muestra al abrir la aplicación. Se muestra una imagen junto con una etiqueta de texto. En la cual se aplicó un cambio de fuente y un cambio de color (omitiendo que los colores hacen que no se perciba fácilmente).
+</p>
+<p align="center">
+<img src="https://github.com/Daniela06112002/DMI_TAREA3_200644/blob/main/screenshots/tarea3.jpg" width="20%"/>
+</p>
 
 <br>
 <br>
